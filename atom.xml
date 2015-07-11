@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[cxtom]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://cxtom.github.io//"/>
+  <updated>2015-07-11T02:19:27.000Z</updated>
+  <id>http://cxtom.github.io//</id>
+  
+  <author>
+    <name><![CDATA[cxtom]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[markdown备忘]]></title>
+    <link href="http://cxtom.github.io/2015/07/10/markdown%E5%A4%87%E5%BF%98/"/>
+    <id>http://cxtom.github.io/2015/07/10/markdown备忘/</id>
+    <published>2015-07-10T10:44:52.000Z</published>
+    <updated>2015-07-11T02:19:27.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Markdown_语法">Markdown 语法</h1><blockquote>
+<p><a href="http://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">Markdown</a> 是一种轻量级的「标记语言」，它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。看到这里请不要被「标记」、「语言」所迷惑，Markdown 的语法十分简单。常用的标记符号也不超过十个，这种相对于更为复杂的HTML 标记语言来说，Markdown 可谓是十分轻量的，学习成本也不需要太多，且一旦熟悉这种语法规则，会有一劳永逸的效果。</p>
+</blockquote>
+<h2 id="一、基本语法">一、基本语法</h2><h4 id="1、_标题">1、 标题</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="header"># 一级标题</span></span><br><span class="line"><span class="header">## 二级标题</span></span><br><span class="line"><span class="header">### 三级标题</span></span><br><span class="line"><span class="header">#### 四级标题</span></span><br><span class="line"><span class="header">##### 五级标题</span></span><br><span class="line"><span class="header">###### 六级标题</span></span><br><span class="line"></span><br><span class="line"><span class="header">一级标题</span><br><span class="line">===</span></span><br><span class="line"></span><br><span class="line"><span class="header">二级标题</span><br><span class="line">---</span></span><br></pre></td></tr></table></figure>
+<h4 id="2、_粗体和斜体">2、 粗体和斜体</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="emphasis">*emphasize*</span>     <span class="strong">**strong**</span></span><br><span class="line"><span class="emphasis">_emphasize_</span>     <span class="strong">__strong__</span></span><br></pre></td></tr></table></figure>
+<p><em>emphasize</em>     <strong>strong</strong><br><em>emphasize</em>     <strong>strong</strong></p>
+<h4 id="3、_图片和链接">3、 图片和链接</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="link_label">alt L</span>](<span class="link_url">/avatar/first.png "L"</span>)</span><br></pre></td></tr></table></figure>
+<p><img src="/avatar/first.png" alt="alt L" title="L"></p>
+<h4 id="4、_列表">4、 列表</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">* </span>Abacus</span><br><span class="line"><span class="code">    * answer</span></span><br><span class="line"><span class="bullet">* </span>Bubbles</span><br><span class="line"><span class="code">    1. bunk</span></span><br><span class="line"><span class="code">    2. bupkis</span></span><br><span class="line"><span class="code">        * BELITTLER</span></span><br><span class="line"><span class="code">    3. burper</span></span><br><span class="line"><span class="bullet">* </span>Cunning</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Markdown_语法">Markdown 语法</h1><blockquote>
+<p><a href="http://zh.wikipedia.org/wiki/Markdown" target="_blank" rel="external">Markdown]]>
+    </summary>
+    
+      <category term="markdown" scheme="http://cxtom.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+</feed>
